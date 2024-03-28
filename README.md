@@ -1,7 +1,7 @@
 [![cooper's stats](https://github-readme-stats-dwoluvhms-coopjz.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
 [![Top Langs](https://github-readme-stats-dwoluvhms-coopjz.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact)](https://github.com/coopjz/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,5 +34,5 @@ Linux                    16 mins             ███████████�
 ```
 
 
- Last Updated on 28/03/2024 13:31:06 UTC
+ Last Updated on 28/03/2024 13:35:32 UTC
 <!--END_SECTION:waka-->
