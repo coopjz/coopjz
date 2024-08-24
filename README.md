@@ -1,7 +1,7 @@
 [![cooper's stats](https://github-readme-stats-l2ak-km2n59e3j-coopjzs-projects.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
 [![Top Langs](https://github-readme-stats-l2ak-km2n59e3j-coopjzs-projects.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact&&hide=C)](https://github.com/coopjz/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -18,8 +18,8 @@ Monday                   149 commits         ██░░░░░░░░░�
 Tuesday                  253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 Wednesday                374 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 Thursday                 453 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Friday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Saturday                 232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Saturday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Sunday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 ```
 
@@ -34,5 +34,5 @@ Linux                    7 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 23/08/2024 18:42:29 UTC
+ Last Updated on 24/08/2024 18:40:44 UTC
 <!--END_SECTION:waka-->
