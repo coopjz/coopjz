@@ -1,7 +1,7 @@
 [![cooper's stats](https://github-readme-stats-l2ak-km2n59e3j-coopjzs-projects.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
 [![Top Langs](https://github-readme-stats-l2ak-km2n59e3j-coopjzs-projects.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact&&hide=C)](https://github.com/coopjz/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2030%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -30,9 +30,9 @@ Sunday                   124 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💻 Operating System: 
-Linux                    14 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2024 18:44:24 UTC
+ Last Updated on 30/09/2024 18:47:27 UTC
 <!--END_SECTION:waka-->
