@@ -1,5 +1,5 @@
-[![cooper's stats](https://github-readme-stats-l2ak-8ut7qroas-coopjzs-projects.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
-[![Top Langs](https://github-readme-stats-l2ak-8ut7qroas-coopjzs-projects.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact&&hide=C)](https://github.com/coopjz/github-readme-stats)
+[![cooper's stats](https://github-readme-stats-4q66xi2mm-coopjzs-projects.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-4q66xi2mm-coopjzs-projects.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact&&hide=C)](https://github.com/coopjz/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%209%20mins-blue)
 
